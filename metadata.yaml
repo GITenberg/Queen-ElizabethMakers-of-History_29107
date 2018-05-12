@@ -1,0 +1,33 @@
+_repo: Queen-ElizabethMakers-of-History_29107
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Abbott, Jacob
+    aliases:
+    - Marianne
+    - Erodore
+    birthdate: 1803
+    deathdate: 1879
+    gutenberg_agent_id: '2136'
+    url: http://www.gutenberg.org/2009/agents/2136
+    wikipedia: http://en.wikipedia.org/wiki/Jacob_Abbott
+description: ''
+gutenberg_issued: '2009-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29107'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- Elizabeth, 1558-1603'
+- !lcsh 'Elizabeth I, Queen of England, 1533-1603'
+- !lcc 'DA'
+title: 'Queen Elizabeth
+
+  Makers of History'
+url: http://www.gutenberg.org/ebooks/29107
